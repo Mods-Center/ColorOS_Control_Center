@@ -8,7 +8,7 @@ Change HyperOS Control Center UI to ColorOS Control Center UI
 
 • Added extended power menu
 
-• Added new tiles such as Advanced Textures and Incognito 
+• Added new tiles such as Advanced Textures and Incognito and 5G switch
 
 • Squared tiles
 
