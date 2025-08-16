@@ -1,4 +1,4 @@
-<img width="3100" height="1742" alt="Picsart_25-08-16_17-13-03-600" src="https://github.com/user-attachments/assets/f8fb8899-c6df-4bc3-afd5-da3b4495d900" />
+<img width="2171" height="1220" alt="Picsart_25-08-16_17-40-58-841" src="https://github.com/user-attachments/assets/861be68a-ff1f-428d-8e71-aa2012ea8cbd" />
 
 
 # ColorOS_Control_Center_V2
