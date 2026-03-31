@@ -15,6 +15,9 @@ Change HyperOS Control Center UI to ColorOS Control Center UI
 <img width="1308" height="2813" alt="Screenshot_2026-02-08-12-29-47-296_com miui home-edit" src="https://github.com/user-attachments/assets/d05d5fab-a917-4491-af9d-40daa615b0d2" />
 
 
-
+### Usage:
+- Long press edit button to open customisation settings
+- Click on brightness icon to turn on/off Auto brightness
+  
 # Important 
 • Android 15+ requires disable apk verification (either from module or manually)
