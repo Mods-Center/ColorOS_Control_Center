@@ -13,7 +13,7 @@
 
 </div>
 
-## ✨ Features
+## Features
 - ColorOS-style control center with square, resizable tiles and a free drag-and-drop layout
 - Sound tile with a sliding control, plus a tile that shows battery health of connected earbuds
 - Caffeine tile
@@ -22,19 +22,19 @@
 - Settings for the dynamic music island
 - Optional top bar with edit, settings and power-menu buttons next to the clock
 
-## 📋 Requirements
+## Requirements
 - HyperOS 3 or HyperOS 4
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/ColorOS_Control_Center/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Android 15+: Signature verification must be disabled. Flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) or [Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch) first, or use the Core Patch LSPosed module.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd530a74-318c-4311-b539-1a4d88a73b42" width="23%" alt="ColorOS Control Center"/>
   <img src="https://github.com/user-attachments/assets/b2ec2fc4-7b40-424b-a2f2-6576f57a3727" width="23%" alt="ColorOS Control Center"/>
@@ -59,8 +59,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/ColorOS_Control_Center/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/ColorOS_Control_Center/issues)
 
 </div>
